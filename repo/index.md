@@ -1,7 +1,7 @@
 
 # Shasta Subramanian's User Page
 
-![Me and my bro before high school homecoming](/main/STHomecoming.jpg "Me and my bro before high school homecoming")
+![Me and my bro before high school homecoming](STHomecoming.JPG "Me and my bro before high school homecoming")
 
 ## About Me
 I'm a motivated engineering student who is passionate about learning. I have interests in robotics, artificial intelligence, embedded systems, business, and finance. Still trying to figure out exactly where I want to go with my career.
